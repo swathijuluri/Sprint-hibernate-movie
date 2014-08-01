@@ -35,12 +35,9 @@ public class AppTest
     {
         assertTrue( true );
     }
-<<<<<<< HEAD
-    
+   
     public void testNothing()
     {
-        assertTrue( false );
+        assertFalse( false );
     }
-=======
->>>>>>> parent of 19d3962... Added some testcase to check the jenkins build
 }
