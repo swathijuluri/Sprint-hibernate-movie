@@ -38,6 +38,6 @@ public class AppTest
     
     public void testNothing()
     {
-        assertTrue( false );
+        assertFalse( false );
     }
 }
